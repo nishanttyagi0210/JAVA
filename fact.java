@@ -1,5 +1,5 @@
 package nishant;
-public class Demo1 {
+public class fact {
 
 		public static void main(String[] args)
 		{
